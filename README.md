@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-🏫 I’m currently a final-year student at FPT University<br>🌱 I’m currently learning ReactJs, C#, and Android<br>📫 Reach me through nguyenminhthai3108@gmail.com
+🏫 I’m currently a final-year student at FPT University<br>🌱 I’m currently learning ReactJs and working as a .NET developer <br/> 📫 Reach me through nguyenminhthai3108@gmail.com
 
 
 ## 🌐 Socials:
